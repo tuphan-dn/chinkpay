@@ -10,7 +10,7 @@ const config: HardhatUserConfig = {
     runOnCompile: true,
     clear: true,
     flat: true,
-    only: [':Lock$'],
+    only: [':Subscription$'],
   },
   networks: {
     sepolia: {

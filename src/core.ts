@@ -1,3 +1,3 @@
-import abi from 'abi/Lock.json'
+import abi from 'abi/Subscription.json'
 
 export const ABI = abi
